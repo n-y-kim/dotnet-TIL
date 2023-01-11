@@ -1,0 +1,15 @@
+/mnt/c/Users/nayeonkim/OneDrive - Microsoft/Study/dotnet-TIL/learning_path_1/module_3/DotNetDependencies/bin/Debug/net6.0/DotNetDependencies
+/mnt/c/Users/nayeonkim/OneDrive - Microsoft/Study/dotnet-TIL/learning_path_1/module_3/DotNetDependencies/bin/Debug/net6.0/DotNetDependencies.deps.json
+/mnt/c/Users/nayeonkim/OneDrive - Microsoft/Study/dotnet-TIL/learning_path_1/module_3/DotNetDependencies/bin/Debug/net6.0/DotNetDependencies.runtimeconfig.json
+/mnt/c/Users/nayeonkim/OneDrive - Microsoft/Study/dotnet-TIL/learning_path_1/module_3/DotNetDependencies/bin/Debug/net6.0/DotNetDependencies.dll
+/mnt/c/Users/nayeonkim/OneDrive - Microsoft/Study/dotnet-TIL/learning_path_1/module_3/DotNetDependencies/bin/Debug/net6.0/ref/DotNetDependencies.dll
+/mnt/c/Users/nayeonkim/OneDrive - Microsoft/Study/dotnet-TIL/learning_path_1/module_3/DotNetDependencies/bin/Debug/net6.0/DotNetDependencies.pdb
+/mnt/c/Users/nayeonkim/OneDrive - Microsoft/Study/dotnet-TIL/learning_path_1/module_3/DotNetDependencies/obj/Debug/net6.0/DotNetDependencies.csproj.AssemblyReference.cache
+/mnt/c/Users/nayeonkim/OneDrive - Microsoft/Study/dotnet-TIL/learning_path_1/module_3/DotNetDependencies/obj/Debug/net6.0/DotNetDependencies.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/nayeonkim/OneDrive - Microsoft/Study/dotnet-TIL/learning_path_1/module_3/DotNetDependencies/obj/Debug/net6.0/DotNetDependencies.AssemblyInfoInputs.cache
+/mnt/c/Users/nayeonkim/OneDrive - Microsoft/Study/dotnet-TIL/learning_path_1/module_3/DotNetDependencies/obj/Debug/net6.0/DotNetDependencies.AssemblyInfo.cs
+/mnt/c/Users/nayeonkim/OneDrive - Microsoft/Study/dotnet-TIL/learning_path_1/module_3/DotNetDependencies/obj/Debug/net6.0/DotNetDependencies.csproj.CoreCompileInputs.cache
+/mnt/c/Users/nayeonkim/OneDrive - Microsoft/Study/dotnet-TIL/learning_path_1/module_3/DotNetDependencies/obj/Debug/net6.0/DotNetDependencies.dll
+/mnt/c/Users/nayeonkim/OneDrive - Microsoft/Study/dotnet-TIL/learning_path_1/module_3/DotNetDependencies/obj/Debug/net6.0/ref/DotNetDependencies.dll
+/mnt/c/Users/nayeonkim/OneDrive - Microsoft/Study/dotnet-TIL/learning_path_1/module_3/DotNetDependencies/obj/Debug/net6.0/DotNetDependencies.pdb
+/mnt/c/Users/nayeonkim/OneDrive - Microsoft/Study/dotnet-TIL/learning_path_1/module_3/DotNetDependencies/obj/Debug/net6.0/DotNetDependencies.genruntimeconfig.cache
